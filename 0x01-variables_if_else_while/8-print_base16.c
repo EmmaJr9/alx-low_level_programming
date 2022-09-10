@@ -16,7 +16,7 @@ int main(void)
 		i++;
 	}
 
-	for(c = 'a'; c < 'g'; c++)
+	for (c = 'a'; c < 'g'; c++)
 	{
 		putchar(c);
 	}
