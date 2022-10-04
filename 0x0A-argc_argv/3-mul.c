@@ -17,12 +17,13 @@ int main(int argc, char *argv[])
 		y = atoi(argv[2]);
 
 		printf("%d\n", x *y);
+
 	}
+
 	else
 	{
 		printf("Error\n");
 		return (1);
 	}
-
 	return (0);
 }
